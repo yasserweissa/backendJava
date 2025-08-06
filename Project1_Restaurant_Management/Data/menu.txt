@@ -1,0 +1,8 @@
+Margherita,130.00
+Pepperoni,155.00
+Chicken BBQ,190.00
+Chicken Ranch,190.00
+Vegetarian,155.00
+Four Cheese,185.00
+Hawaiian,170.00
+Meat Lovers,210.00

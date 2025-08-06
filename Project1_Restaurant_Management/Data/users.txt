@@ -1,0 +1,8 @@
+mohamed,chef123,chef
+ahmed,cook456,chef
+hassan,kitchen9,chef
+youssef,delivery1,delivery
+omar,del789,delivery
+medhat,rider22,delivery
+yasser,customer1,customer
+mizo,yuu,customer

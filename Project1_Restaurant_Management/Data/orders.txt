@@ -1,0 +1,37 @@
+Order ID: PZ_BCFC05E9
+Order Time: 2025-08-06 15:48
+Customer: yasser
+Address: over here
+Phone Number: 01000100010
+Pizza                Qty        Subtotal  
+Pepperoni            2          310.00    
+Chicken BBQ          2          380.00    
+                         Total: 690.00
+Order Status: DELIVERED
+Delivered by: medhat
+Prepared by: ahmed
+--------------------------------------------------
+Order ID: PZ_C5F063DC
+Order Time: 2025-08-06 15:55
+Customer: yasser
+Address: over there
+Phone Number: 09000888
+Pizza                Qty        Subtotal  
+Vegetarian           9          1395.00   
+                         Total: 1395.00
+Order Status: DELIVERED
+Delivered by: medhat
+Prepared by: ahmed
+--------------------------------------------------
+Order ID: PZ_8B9A8B9A
+Order Time: 2025-08-06 16:08
+Customer: yasser
+Address: 2
+Phone Number: 2
+Pizza                Qty        Subtotal  
+Chicken BBQ          2          380.00    
+                         Total: 380.00
+Order Status: DELIVERED
+Delivered by: medhat
+Prepared by: ahmed
+--------------------------------------------------
