@@ -1,4 +1,4 @@
-package Week2_Assignment.OOP2;
+package OOP.OOP2;
 
 public class Main {
 

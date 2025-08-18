@@ -1,4 +1,4 @@
-package Week2_Assignment.OOP1;
+package OOP.OOP1;
 
 public class Waiter extends Employee{
     public Waiter (String name, int age, double salary, String role){

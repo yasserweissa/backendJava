@@ -1,7 +1,7 @@
-package Week2_Assignment.OOP2;
+package OOP.OOP2;
 
-public class Chef extends Employee implements Eating{
-    public Chef (String name, int age, double salary, String role){
+public class Waiter extends Employee implements Eating{
+    public Waiter (String name, int age, double salary, String role){
         super(name, age, salary, role);
     }
 
@@ -12,6 +12,6 @@ public class Chef extends Employee implements Eating{
 
     @Override
     public void eat() {
-        System.out.println("Chef " + getName() + " is tasting the food.");
+        System.out.println("Waiter " + getName() + " is having a quick meal break.");
     }
 }
